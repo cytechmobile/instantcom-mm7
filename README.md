@@ -1,5 +1,6 @@
 instantcom-mm7 Java client-server MMS MM7 library
 =================================================
+[![Release](https://jitpack.io/v/cytechmobile/instantcom-mm7.svg)](https://jitpack.io/#cytechmobile/instantcom-mm7)
 
 Java 1.6+ client and server implementation of MMS MM7 protocol.
 
